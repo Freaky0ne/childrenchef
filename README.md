@@ -1,1 +1,1 @@
-# childrenchef
+This is the README.md file for childrenchef. The project is a website for receipts, that every teenager  can do. The site's backend is written in golang with the framework echo. The front-end is written in html, css, js and REACTJS.
