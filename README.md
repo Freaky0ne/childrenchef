@@ -2443,6 +2443,3 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
-=======
-This is the README.md file for childrenchef. The project is a website for receipts, that every teenager  can do. The site's backend is written in golang with the framework echo. The front-end is written in html, css, js and REACTJS.
->>>>>>> 68e6bffe17d9c6cfd8bdc27d7690344addc65543
