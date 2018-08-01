@@ -4,7 +4,7 @@ class HomeButton extends Component {
     render() {
         return(
             <div className='HomeButton'>
-                <p>Здр</p>
+                <h3 className='HomeButton-text'>Начало</h3>
             </div>
         );
     }
